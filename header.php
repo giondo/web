@@ -1,3 +1,5 @@
-<HEAD>
+<html>
+<head>
 <TITLE>Giondo's WebSite</TITLE>
-</HEAD>
+</head
+<body>
